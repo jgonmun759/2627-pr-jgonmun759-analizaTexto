@@ -1,6 +1,6 @@
-## Práctica Python - Analizador de texto
+# Práctica Python - Analizador de texto
 
-# Enunciado
+## Enunciado
 Desarrolla un programa en Python que solicite una frase y calcule el número total de vocales y de palabras que contiene.  
 
 Implementa la siguiente función:  
@@ -16,14 +16,14 @@ El programa debe cumplir las siguientes condiciones:
 - Contar correctamente las palabras aunque existan varios espacios entre ellas.
 - Realizar el análisis dentro de la función, sin imprimir directamente los resultados desde ella.  
 
-# Ejemplo de ejecución
+## Ejemplo de ejecución
 ```text
 Hola mundo
 Vocales: 4
 Palabras: 2
 ```
 
-# Requisitos de desarrollo
+## Requisitos de desarrollo
 - Crea un repositorio público de GitHub con el nombre indicado, sustituyendo usuarioPasen por tu usuario.
 - Utiliza la estructura básica de un proyecto Python: `src/main.py`, `README.md` y `.gitignore`.
 - Copia este enunciado en el archivo `README.md`.
